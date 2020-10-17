@@ -12,3 +12,8 @@
 
 ## ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness
 (ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness)[https://arxiv.org/abs/1811.12231]
+
+## Residual Channel Attention Generative Adversarial Network for Image
+Super-Resolution and Noise Reduction
+(Residual Channel Attention Generative Adversarial Network for Image
+Super-Resolution and Noise Reduction)[http://xxx.itp.ac.cn//pdf/2004.13674.pdf]
