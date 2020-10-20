@@ -20,3 +20,6 @@ Super-Resolution and Noise Reduction)[http://xxx.itp.ac.cn//pdf/2004.13674.pdf]
 
 ### NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results
 (NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results)[https://arxiv.org/abs/2005.01996]
+
+### Frequency Separation for Real-World Super-Resolution
+(Frequency Separation for Real-World Super-Resolution)[http://xxx.itp.ac.cn/pdf/1911.07850.pdf]
